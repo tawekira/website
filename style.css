@@ -1,0 +1,51 @@
+
+
+
+*{
+    text-align: center;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    
+
+}
+
+.head img{
+    height: 13%;
+    width: 13%;
+    
+
+    border-radius: 50%;
+}
+
+footer img{
+    height: 2.5%;
+    width: 2.5%;
+    opacity: 0.8;
+
+}
+
+footer img:hover{
+    opacity:1;
+}
+
+
+
+.head{
+    font-size: 100%;
+    padding-top: 10%;
+    font-weight: 700;
+    
+    
+}
+
+body{
+    background-color: black;
+    
+}
+
+.description{
+    font-size: 100%;
+    padding-left: 33%;
+    padding-right: 33%;
+    font-family: 'Raleway';
+}
